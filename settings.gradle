@@ -1,0 +1,5 @@
+rootProject.name = 'promerica-challenge'
+include 'weather'
+include 'discovery-server'
+include 'api-gateway'
+
